@@ -2,7 +2,7 @@
 
 ## Installation ##
 
-1. Sign up for a NOWPayments account
+1. Sign up for a NOWPayments account https://nowpayments.io/
 2. Add your crypto wallet address for withdraw and generate `API Key`
 3. In `Settings->Payments->Instant` payment notifications generate `IPN Secret`
 4. Install WHMCS plugin
