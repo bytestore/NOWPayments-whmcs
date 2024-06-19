@@ -1,4 +1,4 @@
-# WHMCS NOWpayments Gateway Module #
+# WHMCS NOWPayments Gateway Module #
 
 ## Installation ##
 
